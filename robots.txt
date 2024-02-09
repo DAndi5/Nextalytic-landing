@@ -1,0 +1,35 @@
+User-Agent: *
+Disallow: /crc/
+
+Disallow: */api/*
+Disallow: */feed/*
+Allow: */?p=*
+Disallow: */?
+Disallow: *?mobile_to_desktop
+Disallow: /*?mobile_version
+Disallow: /*?mobile_version
+Disallow: /*/female/
+Disallow: /*/male/
+Disallow: /partner/
+Disallow: /order/
+Disallow: /*/price-middle/
+Disallow: /*/price-higher-middle/
+Disallow: /*/price-minimal/
+Disallow: /*/price-maximum/
+Disallow: /*/little-exp/
+Disallow: /*/middle-exp/
+Disallow: /*/hard-exp/
+Disallow: /*/high-school-teacher/
+Disallow: /*/expert/
+Disallow: /*/online/
+Disallow: /client
+Disallow: /yandex-feed/
+Disallow: /other
+Disallow: /values/
+Disallow: /*?tab=reviewsCount
+Allow: /*backoffice
+Disallow: */organizations/*
+Disallow: /graphql
+Disallow: /auth/token/*
+Host: https://aicalc.ru
+# Sitemap: https://aicalc.ru/sitemap.xml

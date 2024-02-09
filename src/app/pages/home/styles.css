@@ -1,0 +1,88 @@
+.typography {
+    color: #2f2f2f;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.3em
+}
+
+.price__content-wrap {
+    margin: 0 auto;
+    padding-bottom: 100px;
+    max-width: 940px;
+    width: 100%
+}
+
+.typography table {
+    margin-top: 1.28em;
+    margin-bottom: 1.28em;
+
+    overflow-y: scroll;
+    width: 100%;
+    border-collapse: collapse
+}
+
+@media screen and (max-width: 640px) {
+    .typography table {
+        display: block;
+        overflow-x: auto;
+        margin-left: -10px;
+        width: calc(100% + 20px)
+    }
+}
+
+.typography table {
+    overflow-y: scroll;
+    width: 100%;
+    border-collapse: collapse
+}
+
+.typography table thead th {
+    padding: 20px 10px;
+    background-color: #0062cd;
+    color: #fff;
+    text-align: center;
+    font-weight: 400;
+    vertical-align: middle
+}
+
+.typography table th {
+    background-color: #eee;
+    text-align: left;
+    text-align: center
+}
+.typography table td {
+    background-color: #f7f8fa;
+    text-align: left;
+    font-size: 16px
+}
+
+
+.typography table thead th {
+    padding: 20px 10px;
+    background-color: #0062cd;
+    color: #fff;
+    text-align: center;
+    font-weight: 400;
+    vertical-align: middle
+}
+
+.typography table thead th:first-child {
+    white-space: nowrap
+}
+
+.typography table tr > * {
+    border: 1px solid #fff;
+    vertical-align: top;
+    line-height: 1.31
+}
+
+.typography table td, .typography table th {
+    padding: 20px 10px;
+    font-weight: 400
+}
+
+.typography table tbody td {
+    vertical-align: middle;
+    text-align: center
+}

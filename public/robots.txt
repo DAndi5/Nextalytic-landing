@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://Nextalytic-site.vercel.app/
+
+# Sitemaps
+Sitemap: https://Nextalytic-site.vercel.app/sitemap.xml

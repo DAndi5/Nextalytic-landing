@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "ЭТО КРУТО",
+    "tagline": "ДОВОЛЬНЫЕ КЛИЕНТЫ",
+    "image": "/img/carousel-1.jpg",
+    "buttons": [
+
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ПОБЕДА СДЕЛКИ",
+    "tagline": "ДОВОЛЬНЫЕ КЛИЕНТЫ",
+    "image": "/img/carousel-2.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "WhatsApp",
+        "link": "https://wa.me/+78001234567",
+        "type": "btn-dark btn-circle"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ЗАЛОГ УСПЕХА",
+    "tagline": "ДОВОЛЬНЫЕ КЛИЕНТЫ",
+    "image": "/img/carousel-3.jpg",
+    "buttons": [
+      {
+        "id": 1,
+        "text": "+7800123...",
+        "link": "tel:+78001234567",
+        "type": "btn-dark btn-circle"
+      }
+    ]
+  }
+]

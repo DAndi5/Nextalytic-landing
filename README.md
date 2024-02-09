@@ -51,7 +51,8 @@ bun dev
 
 ## Demo
 
-📌 [https://tailnext.vercel.app/](https://tailnext.vercel.app/)
+📌 [https://nextalytic-nine.vercel.app/](https://nextalytic-nine.vercel.app/)
+
 
 <br>
 

@@ -4,6 +4,13 @@
 использованием **[NextJS](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/)**. Готовый новый проект
 разработан с учетом лучших практик.
 
+## Demo
+
+📌 [https://nextalytic-nine.vercel.app/](https://nextalytic-nine.vercel.app/)
+
+
+<br>
+
 ## Features
 
 - ✅ Интеграция с **Tailwind CSS** с поддержкой **Тёмного режима**.
